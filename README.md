@@ -52,7 +52,7 @@
 * Download script `run.sh`
   ```console
   rm run.sh
-  wget -q https://raw.githubusercontent.com/bayy420-999/Tutorial-testnet-Human-AI-node-Airdrop-Finder/main/run.sh
+  wget -q https://raw.githubusercontent.com/anoderb/Human-ai/main/run.sh
   ```
 * Ubah `run.sh` menjadi executable
   ```console
